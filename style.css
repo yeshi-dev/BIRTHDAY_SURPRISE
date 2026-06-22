@@ -10,7 +10,7 @@ h1{
   font-size: 45px;
 }
 h2{
-  color:#e11bfc;
+  color:#1b75fc;
 }
 p{
   font-size:20px;
@@ -37,7 +37,7 @@ button:hover{
 #surpriseMessage{
   margin-top: 30px;
   font-size: 22px;
-  color:#8b0000
+  color:#8b0000c4
   font-weight: bold;
 
 }
